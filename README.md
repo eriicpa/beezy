@@ -1,5 +1,7 @@
 # BEEZY
 
+![beeste](https://user-images.githubusercontent.com/60799697/121824271-5000a880-cc81-11eb-82e7-5f169a572a0e.png)
+
 Beezy é um aplicativo criado com a finalidade de unir freelancers com clientes interessados em contratar os seus serviços.
 
 ## COMO FUNCIONA
@@ -20,7 +22,7 @@ Beezy é um aplicativo criado com a finalidade de unir freelancers com clientes 
 
 ## INTEGRANTES
 
-| INTEGRANTE        |
+| INTEGRANTES       |
 | ----------------- |
 | Barbara Oliveira  |
 | Eric Almeida      |
