@@ -1,0 +1,71 @@
+.container {
+  height: 64px;
+  background: #FFF;
+  padding: 0 30px;
+}
+
+.container .content {
+  height: 64px;
+  max-width: 1180px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container .content nav {
+  display: flex;
+  align-items: center;
+}
+
+
+.container .content nav a {
+  width: 50%;
+  font-weight: 700;
+  color: #c7653b;
+  text-decoration: none;
+  border-right: 1px solid #eee;
+}
+
+.container .content nav a img{
+  width: 75%;
+
+}
+
+
+.container .content aside {
+  display: flex;
+  align-items: center;
+}
+
+.container .content aside .profile{
+  display: flex;
+  margin-left: 20px;
+  padding-left: 20px;
+  border-left: 1px solid #eee;
+}
+
+.container .content aside .profile div {
+  text-align: right;
+  margin-right: 10px;
+}
+
+.container .content aside .profile div strong {
+  display: block;
+  color: #333;
+}
+
+.container .content aside .profile a{
+  display: block;
+  margin-top: 2px;
+  font-size: 12px;
+  color: #999;
+  text-decoration: none;
+}
+
+.container .content aside .profile img {
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+}
+
