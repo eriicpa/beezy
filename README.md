@@ -1,10 +1,10 @@
-# BEEZY
+# :honeybee: BEEZY :honeybee:
 
 ![beeste](https://user-images.githubusercontent.com/60799697/121824271-5000a880-cc81-11eb-82e7-5f169a572a0e.png)
 
 Beezy é um aplicativo criado com a finalidade de unir freelancers com clientes interessados em contratar os seus serviços.
 
-## COMO FUNCIONA
+## :computer: COMO FUNCIONA :computer:
 
 * O freelancer, através da plataforma web, cria sua conta e cadastra seus serviços, inserindo informações como nome e preço;
 
@@ -12,7 +12,7 @@ Beezy é um aplicativo criado com a finalidade de unir freelancers com clientes 
 
 * Por fim, ao encontrar o prestador desejado, o cliente consegue entrar em contato através do whatsapp, iniciando uma conversa acerca do serviço escolhido.
 
-## LINGUAGENS UTILIZADAS
+## :heavy_check_mark: LINGUAGENS UTILIZADAS :heavy_check_mark:
 
 * ReactJs - Para o desenvolvimento da interface Web;
 
@@ -20,7 +20,7 @@ Beezy é um aplicativo criado com a finalidade de unir freelancers com clientes 
 
 * NodeJs - Para o desenvolvimento do backend.
 
-## INTEGRANTES
+## :boy: INTEGRANTES :girl:
 
 | INTEGRANTES       |
 | ----------------- |
